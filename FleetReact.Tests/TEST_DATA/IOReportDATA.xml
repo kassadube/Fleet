@@ -1,0 +1,577 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ROOT>
+  <ITEM id="1" description="get sensor list">
+    <IOCHART>
+        <SENSOR>
+          <MSId>1</MSId>
+          <MSName>MS#1</MSName>
+          <SensorType>1</SensorType>
+          <DateTime>08/03/2017 07:51:03</DateTime>
+          <Value>44.00</Value>
+          <IgnitionStatus>1</IgnitionStatus>
+          <InArea>1</InArea>
+        </SENSOR>
+        <SENSOR>
+          <MSId>1</MSId>
+          <MSName>MS#1</MSName>
+          <SensorType>1</SensorType>
+          <DateTime>08/03/2017 07:52:46</DateTime>
+          <Value>64.00</Value>
+          <IgnitionStatus>0</IgnitionStatus>
+          <InArea>0</InArea>
+        </SENSOR>
+    </IOCHART>
+  </ITEM>
+  <ITEM id="2" description="get all sens">
+    <IOCHART>
+      <SENSOR>
+        <MSId>1</MSId>
+        <MSName>MS#1</MSName>
+        <SensorType>1</SensorType>
+        <DateTime>08/03/2017 07:51:03</DateTime>
+        <Value>44.00</Value>
+        <IgnitionStatus>1</IgnitionStatus>
+        <InArea>1</InArea>
+      </SENSOR>
+      <SENSOR>
+        <MSId>1</MSId>
+        <MSName>MS#1</MSName>
+        <SensorType>1</SensorType>
+        <DateTime>08/03/2017 07:51:46</DateTime>
+        <Value>64.00</Value>
+        <IgnitionStatus>0</IgnitionStatus>
+        <InArea>0</InArea>
+      </SENSOR>
+      <SENSOR>
+        <MSId>1</MSId>
+        <MSName>MS#1</MSName>
+        <SensorType>1</SensorType>
+        <DateTime>08/03/2017 07:51:48</DateTime>
+        <Value>44.00</Value>
+        <IgnitionStatus>0</IgnitionStatus>
+        <InArea>0</InArea>
+      </SENSOR>
+      <SENSOR>
+        <MSId>1</MSId>
+        <MSName>MS#1</MSName>
+        <SensorType>1</SensorType>
+        <DateTime>08/03/2017 07:51:59</DateTime>
+        <Value>8.00</Value>
+        <IgnitionStatus>0</IgnitionStatus>
+        <InArea>0</InArea>
+      </SENSOR>
+      <SENSOR>
+        <MSId>1</MSId>
+        <MSName>MS#1</MSName>
+        <SensorType>1</SensorType>
+        <DateTime>08/03/2017 07:52:08</DateTime>
+        <Value>32.00</Value>
+        <IgnitionStatus>0</IgnitionStatus>
+        <InArea>0</InArea>
+      </SENSOR>
+      <SENSOR>
+        <MSId>1</MSId>
+        <MSName>MS#1</MSName>
+        <SensorType>1</SensorType>
+        <DateTime>08/03/2017 07:52:14</DateTime>
+        <Value>72.00</Value>
+        <IgnitionStatus>0</IgnitionStatus>
+        <InArea>0</InArea>
+      </SENSOR>
+      <SENSOR>
+        <MSId>1</MSId>
+        <MSName>MS#1</MSName>
+        <SensorType>1</SensorType>
+        <DateTime>08/03/2017 07:52:35</DateTime>
+        <Value>0.00</Value>
+        <IgnitionStatus>0</IgnitionStatus>
+        <InArea>0</InArea>
+      </SENSOR>
+      <SENSOR>
+        <MSId>1</MSId>
+        <MSName>MS#1</MSName>
+        <SensorType>1</SensorType>
+        <DateTime>08/03/2017 07:52:46</DateTime>
+        <Value>60.00</Value>
+        <IgnitionStatus>0</IgnitionStatus>
+        <InArea>0</InArea>
+      </SENSOR>
+      <SENSOR>
+        <MSId>1</MSId>
+        <MSName>MS#1</MSName>
+        <SensorType>2</SensorType>
+        <DateTime>08/03/2017 07:51:08</DateTime>
+        <Value>60.00</Value>
+        <IgnitionStatus>0</IgnitionStatus>
+        <InArea>1</InArea>
+      </SENSOR>
+      <SENSOR>
+        <MSId>1</MSId>
+        <MSName>MS#1</MSName>
+        <SensorType>2</SensorType>
+        <DateTime>08/03/2017 07:51:16</DateTime>
+        <Value>96.00</Value>
+        <IgnitionStatus>0</IgnitionStatus>
+        <InArea>1</InArea>
+      </SENSOR>
+      <SENSOR>
+        <MSId>1</MSId>
+        <MSName>MS#1</MSName>
+        <SensorType>2</SensorType>
+        <DateTime>08/03/2017 07:51:26</DateTime>
+        <Value>24.00</Value>
+        <IgnitionStatus>0</IgnitionStatus>
+        <InArea>1</InArea>
+      </SENSOR>
+      <SENSOR>
+        <MSId>1</MSId>
+        <MSName>MS#1</MSName>
+        <SensorType>2</SensorType>
+        <DateTime>08/03/2017 07:51:27</DateTime>
+        <Value>64.00</Value>
+        <IgnitionStatus>0</IgnitionStatus>
+        <InArea>1</InArea>
+      </SENSOR>
+      <SENSOR>
+        <MSId>1</MSId>
+        <MSName>MS#1</MSName>
+        <SensorType>2</SensorType>
+        <DateTime>08/03/2017 07:51:31</DateTime>
+        <Value>64.00</Value>
+        <IgnitionStatus>0</IgnitionStatus>
+        <InArea>1</InArea>
+      </SENSOR>
+      <SENSOR>
+        <MSId>1</MSId>
+        <MSName>MS#1</MSName>
+        <SensorType>2</SensorType>
+        <DateTime>08/03/2017 07:51:36</DateTime>
+        <Value>72.00</Value>
+        <IgnitionStatus>0</IgnitionStatus>
+        <InArea>1</InArea>
+      </SENSOR>
+      <SENSOR>
+        <MSId>1</MSId>
+        <MSName>MS#1</MSName>
+        <SensorType>2</SensorType>
+        <DateTime>08/03/2017 07:51:55</DateTime>
+        <Value>72.00</Value>
+        <IgnitionStatus>0</IgnitionStatus>
+        <InArea>1</InArea>
+      </SENSOR>
+      <SENSOR>
+        <MSId>1</MSId>
+        <MSName>MS#1</MSName>
+        <SensorType>2</SensorType>
+        <DateTime>08/03/2017 07:52:00</DateTime>
+        <Value>24.00</Value>
+        <IgnitionStatus>0</IgnitionStatus>
+        <InArea>1</InArea>
+      </SENSOR>
+      <SENSOR>
+        <MSId>1</MSId>
+        <MSName>MS#1</MSName>
+        <SensorType>2</SensorType>
+        <DateTime>08/03/2017 07:52:02</DateTime>
+        <Value>12.00</Value>
+        <IgnitionStatus>0</IgnitionStatus>
+        <InArea>1</InArea>
+      </SENSOR>
+      <SENSOR>
+        <MSId>1</MSId>
+        <MSName>MS#1</MSName>
+        <SensorType>2</SensorType>
+        <DateTime>08/03/2017 07:52:06</DateTime>
+        <Value>36.00</Value>
+        <IgnitionStatus>0</IgnitionStatus>
+        <InArea>1</InArea>
+      </SENSOR>
+      <SENSOR>
+        <MSId>1</MSId>
+        <MSName>MS#1</MSName>
+        <SensorType>2</SensorType>
+        <DateTime>08/03/2017 07:52:11</DateTime>
+        <Value>64.00</Value>
+        <IgnitionStatus>0</IgnitionStatus>
+        <InArea>1</InArea>
+      </SENSOR>
+      <SENSOR>
+        <MSId>1</MSId>
+        <MSName>MS#1</MSName>
+        <SensorType>2</SensorType>
+        <DateTime>08/03/2017 07:52:24</DateTime>
+        <Value>44.00</Value>
+        <IgnitionStatus>0</IgnitionStatus>
+        <InArea>1</InArea>
+      </SENSOR>
+      <SENSOR>
+        <MSId>1</MSId>
+        <MSName>MS#1</MSName>
+        <SensorType>2</SensorType>
+        <DateTime>08/03/2017 07:52:34</DateTime>
+        <Value>4.00</Value>
+        <IgnitionStatus>0</IgnitionStatus>
+        <InArea>1</InArea>
+      </SENSOR>
+      <SENSOR>
+        <MSId>1</MSId>
+        <MSName>MS#1</MSName>
+        <SensorType>2</SensorType>
+        <DateTime>08/03/2017 07:52:40</DateTime>
+        <Value>32.00</Value>
+        <IgnitionStatus>0</IgnitionStatus>
+        <InArea>1</InArea>
+      </SENSOR>
+      <SENSOR>
+        <MSId>1</MSId>
+        <MSName>MS#1</MSName>
+        <SensorType>2</SensorType>
+        <DateTime>08/03/2017 07:52:48</DateTime>
+        <Value>96.00</Value>
+        <IgnitionStatus>0</IgnitionStatus>
+        <InArea>1</InArea>
+      </SENSOR>
+      <SENSOR>
+        <MSId>1</MSId>
+        <MSName>MS#1</MSName>
+        <SensorType>2</SensorType>
+        <DateTime>08/03/2017 07:52:52</DateTime>
+        <Value>88.00</Value>
+        <IgnitionStatus>0</IgnitionStatus>
+        <InArea>1</InArea>
+      </SENSOR>
+      <SENSOR>
+        <MSId>1</MSId>
+        <MSName>MS#1</MSName>
+        <SensorType>2</SensorType>
+        <DateTime>08/03/2017 07:53:07</DateTime>
+        <Value>8.00</Value>
+        <IgnitionStatus>0</IgnitionStatus>
+        <InArea>1</InArea>
+      </SENSOR>
+      <SENSOR>
+        <MSId>1</MSId>
+        <MSName>MS#1</MSName>
+        <SensorType>2</SensorType>
+        <DateTime>08/03/2017 07:53:09</DateTime>
+        <Value>64.00</Value>
+        <IgnitionStatus>0</IgnitionStatus>
+        <InArea>1</InArea>
+      </SENSOR>
+      <SENSOR>
+        <MSId>2</MSId>
+        <MSName>MS#2</MSName>
+        <SensorType>1</SensorType>
+        <DateTime>08/03/2017 07:51:08</DateTime>
+        <Value>5.00</Value>
+        <IgnitionStatus>1</IgnitionStatus>
+        <InArea>0</InArea>
+      </SENSOR>
+      <SENSOR>
+        <MSId>2</MSId>
+        <MSName>MS#2</MSName>
+        <SensorType>1</SensorType>
+        <DateTime>08/03/2017 07:51:14</DateTime>
+        <Value>77.00</Value>
+        <IgnitionStatus>1</IgnitionStatus>
+        <InArea>0</InArea>
+      </SENSOR>
+      <SENSOR>
+        <MSId>2</MSId>
+        <MSName>MS#2</MSName>
+        <SensorType>1</SensorType>
+        <DateTime>08/03/2017 07:51:15</DateTime>
+        <Value>45.00</Value>
+        <IgnitionStatus>1</IgnitionStatus>
+        <InArea>0</InArea>
+      </SENSOR>
+      <SENSOR>
+        <MSId>2</MSId>
+        <MSName>MS#2</MSName>
+        <SensorType>1</SensorType>
+        <DateTime>08/03/2017 07:51:16</DateTime>
+        <Value>77.00</Value>
+        <IgnitionStatus>1</IgnitionStatus>
+        <InArea>0</InArea>
+      </SENSOR>
+      <SENSOR>
+        <MSId>2</MSId>
+        <MSName>MS#2</MSName>
+        <SensorType>1</SensorType>
+        <DateTime>08/03/2017 07:51:20</DateTime>
+        <Value>17.00</Value>
+        <IgnitionStatus>1</IgnitionStatus>
+        <InArea>0</InArea>
+      </SENSOR>
+      <SENSOR>
+        <MSId>2</MSId>
+        <MSName>MS#2</MSName>
+        <SensorType>1</SensorType>
+        <DateTime>08/03/2017 07:51:24</DateTime>
+        <Value>69.00</Value>
+        <IgnitionStatus>1</IgnitionStatus>
+        <InArea>0</InArea>
+      </SENSOR>
+      <SENSOR>
+        <MSId>2</MSId>
+        <MSName>MS#2</MSName>
+        <SensorType>2</SensorType>
+        <DateTime>08/03/2017 07:51:06</DateTime>
+        <Value>1.00</Value>
+        <IgnitionStatus>1</IgnitionStatus>
+        <InArea>1</InArea>
+      </SENSOR>
+      <SENSOR>
+        <MSId>2</MSId>
+        <MSName>MS#2</MSName>
+        <SensorType>2</SensorType>
+        <DateTime>08/03/2017 07:51:17</DateTime>
+        <Value>1.00</Value>
+        <IgnitionStatus>1</IgnitionStatus>
+        <InArea>1</InArea>
+      </SENSOR>
+      <SENSOR>
+        <MSId>2</MSId>
+        <MSName>MS#2</MSName>
+        <SensorType>2</SensorType>
+        <DateTime>08/03/2017 07:51:30</DateTime>
+        <Value>85.00</Value>
+        <IgnitionStatus>1</IgnitionStatus>
+        <InArea>1</InArea>
+      </SENSOR>
+      <SENSOR>
+        <MSId>2</MSId>
+        <MSName>MS#2</MSName>
+        <SensorType>2</SensorType>
+        <DateTime>08/03/2017 07:51:33</DateTime>
+        <Value>61.00</Value>
+        <IgnitionStatus>1</IgnitionStatus>
+        <InArea>1</InArea>
+      </SENSOR>
+      <SENSOR>
+        <MSId>2</MSId>
+        <MSName>MS#2</MSName>
+        <SensorType>2</SensorType>
+        <DateTime>08/03/2017 07:51:36</DateTime>
+        <Value>57.00</Value>
+        <IgnitionStatus>1</IgnitionStatus>
+        <InArea>1</InArea>
+      </SENSOR>
+      <SENSOR>
+        <MSId>2</MSId>
+        <MSName>MS#2</MSName>
+        <SensorType>2</SensorType>
+        <DateTime>08/03/2017 07:51:37</DateTime>
+        <Value>69.00</Value>
+        <IgnitionStatus>1</IgnitionStatus>
+        <InArea>1</InArea>
+      </SENSOR>
+      <SENSOR>
+        <MSId>2</MSId>
+        <MSName>MS#2</MSName>
+        <SensorType>2</SensorType>
+        <DateTime>08/03/2017 07:51:51</DateTime>
+        <Value>93.00</Value>
+        <IgnitionStatus>1</IgnitionStatus>
+        <InArea>1</InArea>
+      </SENSOR>
+      <SENSOR>
+        <MSId>2</MSId>
+        <MSName>MS#2</MSName>
+        <SensorType>2</SensorType>
+        <DateTime>08/03/2017 07:52:07</DateTime>
+        <Value>21.00</Value>
+        <IgnitionStatus>1</IgnitionStatus>
+        <InArea>1</InArea>
+      </SENSOR>
+      <SENSOR>
+        <MSId>2</MSId>
+        <MSName>MS#2</MSName>
+        <SensorType>2</SensorType>
+        <DateTime>08/03/2017 07:52:08</DateTime>
+        <Value>41.00</Value>
+        <IgnitionStatus>1</IgnitionStatus>
+        <InArea>1</InArea>
+      </SENSOR>
+      <SENSOR>
+        <MSId>2</MSId>
+        <MSName>MS#2</MSName>
+        <SensorType>2</SensorType>
+        <DateTime>08/03/2017 07:52:09</DateTime>
+        <Value>29.00</Value>
+        <IgnitionStatus>1</IgnitionStatus>
+        <InArea>1</InArea>
+      </SENSOR>
+      <SENSOR>
+        <MSId>2</MSId>
+        <MSName>MS#2</MSName>
+        <SensorType>2</SensorType>
+        <DateTime>08/03/2017 07:52:11</DateTime>
+        <Value>69.00</Value>
+        <IgnitionStatus>1</IgnitionStatus>
+        <InArea>1</InArea>
+      </SENSOR>
+      <SENSOR>
+        <MSId>2</MSId>
+        <MSName>MS#2</MSName>
+        <SensorType>2</SensorType>
+        <DateTime>08/03/2017 07:52:19</DateTime>
+        <Value>89.00</Value>
+        <IgnitionStatus>1</IgnitionStatus>
+        <InArea>1</InArea>
+      </SENSOR>
+      <SENSOR>
+        <MSId>2</MSId>
+        <MSName>MS#2</MSName>
+        <SensorType>2</SensorType>
+        <DateTime>08/03/2017 07:53:02</DateTime>
+        <Value>49.00</Value>
+        <IgnitionStatus>1</IgnitionStatus>
+        <InArea>1</InArea>
+      </SENSOR>
+      <SENSOR>
+        <MSId>2</MSId>
+        <MSName>MS#2</MSName>
+        <SensorType>2</SensorType>
+        <DateTime>08/03/2017 07:53:14</DateTime>
+        <Value>69.00</Value>
+        <IgnitionStatus>1</IgnitionStatus>
+        <InArea>1</InArea>
+      </SENSOR>
+      <SENSOR>
+        <MSId>3</MSId>
+        <MSName>MS#3</MSName>
+        <SensorType>2</SensorType>
+        <DateTime>08/03/2017 07:51:43</DateTime>
+        <Value>78.00</Value>
+        <IgnitionStatus>0</IgnitionStatus>
+        <InArea>1</InArea>
+      </SENSOR>
+      <SENSOR>
+        <MSId>3</MSId>
+        <MSName>MS#3</MSName>
+        <SensorType>2</SensorType>
+        <DateTime>08/03/2017 07:51:53</DateTime>
+        <Value>14.00</Value>
+        <IgnitionStatus>0</IgnitionStatus>
+        <InArea>1</InArea>
+      </SENSOR>
+      <SENSOR>
+        <MSId>3</MSId>
+        <MSName>MS#3</MSName>
+        <SensorType>2</SensorType>
+        <DateTime>08/03/2017 07:52:41</DateTime>
+        <Value>6.00</Value>
+        <IgnitionStatus>0</IgnitionStatus>
+        <InArea>1</InArea>
+      </SENSOR>
+      <SENSOR>
+        <MSId>4</MSId>
+        <MSName>MS#4</MSName>
+        <SensorType>2</SensorType>
+        <DateTime>08/03/2017 07:52:41</DateTime>
+        <Value>43.00</Value>
+        <IgnitionStatus>1</IgnitionStatus>
+        <InArea>1</InArea>
+      </SENSOR>
+    </IOCHART>
+  </ITEM>
+  <ITEM id="3" description="post report form data vladi account QA">
+    <ROOT>
+      <AccountId>4326</AccountId>
+      <LangId>1</LangId>
+      <itemId>55217</itemId>
+      <alertsChecked>12313;12314;12315;12316;12317;12318;12319;12320;12321;12322;12323;12324;12325;12326;12327;</alertsChecked>
+      <_id>2783681</_id>
+      <Dates>1</Dates>
+      <PreDates>d,-5</PreDates>
+      <startDate>1489042807</startDate>
+      <endDate>1489647607</endDate>
+      <reportVehicles>220030</reportVehicles>
+      <SensorType>0</SensorType>
+      <reportAlerts>rsAlertsSelected</reportAlerts>
+    </ROOT>
+  </ITEM>
+  <ITEM id="4" description="post report form data vladi account QA 1 hour">
+    <ROOT>
+      <AccountId>4326</AccountId>
+      <LangId>1</LangId>
+      <itemId>55217</itemId>
+      <alertsChecked>12313;12314;12315;12316;12317;12318;12319;12320;12321;12322;12323;12324;12325;12326;12327;</alertsChecked>
+      <_id>2783681</_id>
+      <Dates>1</Dates>
+      <PreDates>d,-2</PreDates>
+      <startDate>1489600000</startDate>
+      <endDate>1489647607</endDate>
+      <reportVehicles>220030</reportVehicles>
+      <SensorType>0</SensorType>
+      <reportAlerts>rsAlertsSelected</reportAlerts>
+    </ROOT>
+  </ITEM>
+  <ITEM id="5" description="post report form data vladi account QA 28 days 2 sensors in one multisense (sensor4)">
+    <ROOT>
+      <AccountId>4326</AccountId>
+      <LangId>1</LangId>
+      <itemId>55216</itemId>
+      <alertsChecked>12313;12314;12315;12316;12317;12318;12319;12320;12321;12322;12323;12324;12327;12340;12362;12363;12364;12365;12366;12367;12331;12382;</alertsChecked>
+      <_id>7740340</_id>
+      <Dates>1</Dates>
+      <PreDates>d,-28</PreDates>
+      <startDate>1489504119</startDate>
+      <endDate>1490108919</endDate>
+      <reportVehicles>2112887</reportVehicles>
+      <SensorType>0</SensorType>
+      <reportAlerts>rsAlertsSelected</reportAlerts>
+    </ROOT>
+  </ITEM>
+  <ITEM id="6" description="post report form data vladi account QA find last date in sensor">
+    <ROOT>
+      <AccountId>4326</AccountId>
+      <LangId>1</LangId>
+      <itemId>55216</itemId>
+      <alertsChecked>12313;12315;12317;12319;12320;12322;12323;12324;12327;12340;12362;12363;12364;12365;12366;12367;12331;</alertsChecked>
+      <_id>3343212</_id>
+      <Dates>1</Dates>
+      <PreDates>d,-1</PreDates>
+      <startDate>1490076106</startDate>
+      <endDate>1490680906</endDate>
+      <reportVehicles>2112887</reportVehicles>
+      <SensorType>0</SensorType>
+      <reportAlerts>Alerts Selected</reportAlerts>
+    </ROOT>
+  </ITEM>
+  <ITEM id="7" description="post report form data vladi account QA vehicle with only alerts no sensors data">
+    <ROOT>
+      <AccountId>4326</AccountId>
+      <LangId>1</LangId>
+      <itemId>54931</itemId>
+      <alertsChecked>12175;12176;12417;12418;12419;</alertsChecked>
+      <_id>0578588</_id>
+      <Dates>1</Dates>
+      <PreDates>d,-1</PreDates>
+      <startDate>1490170237</startDate>
+      <endDate>1490775037</endDate>
+      <reportVehicles>600012 CANiQ 2</reportVehicles>
+      <ShowTrips>1</ShowTrips>
+      <SensorType>0</SensorType>
+      <reportAlerts>Alerts Selected</reportAlerts>
+    </ROOT>
+  </ITEM>
+  <ITEM id="8" description="post report form data vladi account QA vehicle 1 day all options">
+    <ROOT>
+      <AccountId>4326</AccountId>
+      <LangId>1</LangId>
+      <itemId>55216</itemId>
+      <alertsChecked>12313;12315;12317;12320;12322;12323;12327;12362;12363;12365;12366;12367;12458;</alertsChecked>
+      <_id>7743982</_id>
+      <Dates>1</Dates>
+      <PreDates>d,-1</PreDates>
+      <startDate>1493629843</startDate>
+      <endDate>1494234643</endDate>
+      <reportVehicles>2112887</reportVehicles>
+      <ShowTrips>1</ShowTrips>
+      <SensorType>0</SensorType>
+      <reportAlerts>Alerts Selected</reportAlerts>
+    </ROOT>
+  </ITEM>
+</ROOT>

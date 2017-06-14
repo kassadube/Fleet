@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ROOT>
+  <ITEM id="1" description="update driver">
+    <ROOT>
+      <AccountId>4344</AccountId>
+      <driverId>37104</driverId>
+      <FirstName>ofir driver</FirstName>
+      <MiddleName>ggg</MiddleName>
+      <LastName>14</LastName>
+      <NationalId>123456</NationalId>
+      <Code_input></Code_input>
+      <Code></Code>
+      <LTList>6</LTList>
+      <DriverGroupId>4083</DriverGroupId>
+      <Status>1</Status>
+      <LicenseNum>123456</LicenseNum>
+      <Address>holon</Address>
+      <Mobile>0507869741</Mobile>
+      <HomePhone>0507869741</HomePhone>
+      <Email>bingo@pointer.com</Email>
+      <Remarks>kkk</Remarks>
+      <Login>bingo</Login>
+      <Password>Aa1111</Password>
+      <DefaultTaskMedium>1</DefaultTaskMedium>
+      <ManagerId>-1</ManagerId>
+      <LicenseExpire>2015/01/24 00:00</LicenseExpire>
+      <LicenseIssue>2015/01/24 00:00</LicenseIssue>
+      <Birthday>1982/01/31 00:00</Birthday>
+      <InsurancePolicyExp>1982/01/31 00:00</InsurancePolicyExp>
+      <PsychophysicalExamination>1985/01/05 00:00</PsychophysicalExamination>
+    </ROOT>
+  </ITEM>  
+</ROOT>
