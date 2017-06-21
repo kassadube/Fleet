@@ -35,6 +35,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SiteLogger", "SiteLogger\Si
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fleet.Membership", "Fleet.Membership\Fleet.Membership.csproj", "{D55F2413-D605-4326-A9AD-DA80B483051B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fleet.Structruemap.Regestry", "Fleet.Structruemap.Regestry\Fleet.Structruemap.Regestry.csproj", "{5ADA3D5C-7297-4E82-A1A8-DA1250597C4F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -123,6 +125,14 @@ Global
 		{D55F2413-D605-4326-A9AD-DA80B483051B}.Release|Any CPU.Build.0 = Release|Any CPU
 		{D55F2413-D605-4326-A9AD-DA80B483051B}.Release|x86.ActiveCfg = Release|x86
 		{D55F2413-D605-4326-A9AD-DA80B483051B}.Release|x86.Build.0 = Release|x86
+		{5ADA3D5C-7297-4E82-A1A8-DA1250597C4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5ADA3D5C-7297-4E82-A1A8-DA1250597C4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5ADA3D5C-7297-4E82-A1A8-DA1250597C4F}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{5ADA3D5C-7297-4E82-A1A8-DA1250597C4F}.Debug|x86.Build.0 = Debug|Any CPU
+		{5ADA3D5C-7297-4E82-A1A8-DA1250597C4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5ADA3D5C-7297-4E82-A1A8-DA1250597C4F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5ADA3D5C-7297-4E82-A1A8-DA1250597C4F}.Release|x86.ActiveCfg = Release|Any CPU
+		{5ADA3D5C-7297-4E82-A1A8-DA1250597C4F}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -138,5 +148,6 @@ Global
 		{67454C20-E7E1-4B71-A1E2-7A80ED0F4D8B} = {25F466F7-D7DC-4FD8-AFA8-14E7C7FBA834}
 		{73D5C4D4-90D5-4F12-A37F-1F538694F3A8} = {BF7B3EC8-0782-420B-9887-6FDACD75BDC1}
 		{D55F2413-D605-4326-A9AD-DA80B483051B} = {0CE0685C-5EF1-4422-A576-6A21418E2854}
+		{5ADA3D5C-7297-4E82-A1A8-DA1250597C4F} = {25F466F7-D7DC-4FD8-AFA8-14E7C7FBA834}
 	EndGlobalSection
 EndGlobal

@@ -14,6 +14,11 @@ namespace Fleet.Data
     public class AccountRepository :BaseRepository, IAccountRepository
     {
         private const string SQL_GET_ACCOUNT_DETAILS = "Fleet.dbo.spAccountGet";
+
+        public AccountRepository()
+        {
+
+        }
         public BaseResultInfo GetAccountDetails(int accountId)
         {
             DataResultInfo<FleetAccountInfo> result = new DataResultInfo<FleetAccountInfo>() { ResultObject = new FleetAccountInfo() };

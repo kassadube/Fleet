@@ -1,5 +1,5 @@
 ﻿
-using Fleet.Data;
+
 using StructureMap;
 using System;
 using System.Collections.Generic;
@@ -15,7 +15,7 @@ namespace Fleet.StructureMap
     {
         public StructureRegestry()
         {
-            For<IAccountRepository>().Use<AccountRepository>();
+           // For<IAccountRepository>().Use<AccountRepository>();
         }
 
     }

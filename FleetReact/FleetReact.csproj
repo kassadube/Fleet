@@ -207,6 +207,10 @@
     <Content Include="Scripts\jquery-1.10.2.min.map" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\Fleet.SiteMVC\Fleet.SiteMVC.csproj">
+      <Project>{55b34637-dda9-4bf5-9213-68a1f5135e57}</Project>
+      <Name>Fleet.SiteMVC</Name>
+    </ProjectReference>
     <ProjectReference Include="..\Fleet.StructureMap\Fleet.StructureMap.csproj">
       <Project>{5d2b3320-0fd4-4a32-80c4-ebf2332b5837}</Project>
       <Name>Fleet.StructureMap</Name>

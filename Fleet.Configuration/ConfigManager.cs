@@ -224,6 +224,8 @@ namespace Fleet.Configuration
             _settings.DbSettings.Timeout = string.IsNullOrEmpty(timeout) ? 30 : System.Convert.ToInt32(timeout);
             _settings.DbSettings.DWTimeout = string.IsNullOrEmpty(DWtimeout) ? 120 : System.Convert.ToInt32(DWtimeout);
             _settings.RsSettings.ReportServer = System.Configuration.ConfigurationManager.AppSettings["REPORT_SERVER"];
+            if (string.IsNullOrEmpty(_settings.RsSettings.ReportServer)) return;
+
             _settings.RsSettings.ReportServiceUrl = Path.Combine(_settings.RsSettings.ReportServer, "ReportService2005.asmx");
             _settings.RsSettings.ReportServiceExecutionUrl = Path.Combine(_settings.RsSettings.ReportServer, "ReportExecution2005.asmx");
             string fleetReports = System.Configuration.ConfigurationManager.AppSettings["FLEET_REPORTS"];            
